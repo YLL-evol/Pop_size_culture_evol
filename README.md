@@ -11,7 +11,7 @@ Simulation of population structure, migration, innovation, and social learning s
 This repository presents a **computational model of cumulative cultural evolution**, inspired by experimental and theoretical work in cultural evolution, particularly the research tradition of:
 
 - Derex (2013)
-- Derex (2018)
+- Derex (2020)
 - Henrich (2004), Boyd & Richerson (1985), Mesoudi (2011)
 
 The framework simulates how **population structure, migration, innovation, and social learning strategies** interact to shape the evolution of cultural complexity.
@@ -352,14 +352,11 @@ The model is intentionally simple but extensible, allowing integration with empi
 
 # 6. References 
 
-Boyd, Robert, and Peter J. Richerson. 1985. *Culture and the Evolutionary Process*. Chicago: University of Chicago Press.  
-https://www.press.uchicago.edu/ucp/books/book/chicago/C/bo3630708.html  
+Badcock, Christopher & Boyd, Robert & Richerson, Peter. (1988). Culture and the Evolutionary Process.. Man. 23. 204. 10.2307/2803086. 
 
-Derex, Maxime, et al. 2013. “Experimental Evidence for the Influence of Group Size on Cultural Complexity.” *Proceedings of the National Academy of Sciences* 110 (41): 16730–16735.  
-https://www.pnas.org/doi/10.1073/pnas.1305527110  
+Derex M, Beugin MP, Godelle B, Raymond M. Experimental evidence for the influence of group size on cultural complexity. Nature. 2013 Nov 21;503(7476):389-91. doi: 10.1038/nature12774. Epub 2013 Nov 13. PMID: 24226775.
 
-Derex, Maxime, et al. 2018. “Population Structure and Cultural Evolution.” *Nature Communications* 9: 2112.  
-https://www.nature.com/articles/s41467-018-06508-9  
+Derex M, Mesoudi A. Cumulative Cultural Evolution within Evolving Population Structures. Trends Cogn Sci. 2020 Aug;24(8):654-667. doi: 10.1016/j.tics.2020.04.005. Epub 2020 May 25. PMID: 32466991.
 
 Henrich, Joseph. “Demography and Cultural Evolution: How Adaptive Cultural Processes Can Produce Maladaptive Losses—The Tasmanian Case.” American Antiquity 69, no. 2 (2004): 197–214. https://doi.org/10.2307/4128416.
 
