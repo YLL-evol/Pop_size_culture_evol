@@ -361,8 +361,7 @@ https://www.pnas.org/doi/10.1073/pnas.1305527110
 Derex, Maxime, et al. 2018. “Population Structure and Cultural Evolution.” *Nature Communications* 9: 2112.  
 https://www.nature.com/articles/s41467-018-06508-9  
 
-Henrich, Joseph. 2004. “Demography and Cultural Evolution: How Adaptive Cultural Processes Can Produce Maladaptive Losses.” *American Antiquity* 69 (2): 197–214.  
-https://doi.org/10.2307/4128346  
+Henrich, Joseph. “Demography and Cultural Evolution: How Adaptive Cultural Processes Can Produce Maladaptive Losses—The Tasmanian Case.” American Antiquity 69, no. 2 (2004): 197–214. https://doi.org/10.2307/4128416.
 
 Mesoudi, Alex. 2011. *Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences*. Chicago: University of Chicago Press.  
 https://press.uchicago.edu/ucp/books/book/chicago/C/bo10360088.html  
